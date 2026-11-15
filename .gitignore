@@ -1,0 +1,13 @@
+# Excel temporary lock/recovery files
+~$*.xlsx
+*.xlsb~
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python scratch / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
