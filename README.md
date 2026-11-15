@@ -94,9 +94,5 @@ The model's initial `05_Audit` sheet returns **12 of 12 checks passing**.
 
 Financial ratio construction · driver-based scenario modelling · dropdown data validation · linked formulas · cash-release bridge · dynamic dashboards · charting · automated reconciliation tests.
 
-## CV bullet
-
-> Developed a working-capital release model calculating DSO, DIO, DPO and CCC, with driver-based liquidity sensitivity, scenario targets, a reconciled cash-release bridge and automated integrity checks.
-
 ---
 **Portfolio case study:** entirely fictional inputs for educational demonstration.
